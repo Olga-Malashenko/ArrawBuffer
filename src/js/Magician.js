@@ -1,7 +1,8 @@
 import Character from './app';
-import Math from './Math';
+import PowerCalculate from './PowerCalculate';
+//import Math from './PowerCalculate';
 
-export default class Magician extends Math {
+export default class Magician extends PowerCalculate {
   constructor(name, type) {
     super(name, type);
     // this.attack = 10;

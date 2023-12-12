@@ -1,5 +1,5 @@
 import Character from '../app';
-import Math from '../Math';
+import PowerCalculate from '../PowerCalculate';
 import Daemon from '../Daemon';
 import Magician from '../Magician';
 

@@ -1,4 +1,3 @@
-// TODO: write your code here
 export default class Character {
   constructor(name, type) {
     if (name && typeof (name) === 'string' && name.length > 2 && name.length < 10) {
@@ -41,3 +40,5 @@ export default class Character {
     }
   }
 }
+
+

@@ -1,7 +1,7 @@
 import Character from './app';
-import Math from './Math';
+import PowerCalculate from './PowerCalculate';
 
-export default class Daemon extends Math {
+export default class Daemon extends PowerCalculate {
   constructor(name, type) {
     super(name, type);
     // this.attack = 10;
