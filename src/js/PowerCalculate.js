@@ -36,4 +36,3 @@ export default class PowerCalculate extends Character {
     return damagePower;
   }
 }
-
